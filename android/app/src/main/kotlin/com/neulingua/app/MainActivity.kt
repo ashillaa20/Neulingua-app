@@ -1,0 +1,5 @@
+package com.neulingua.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

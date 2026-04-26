@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "dart.flutterSdkPath": null,
+  "dart.lineLength": 100,
+  "[dart]": {
+    "editor.rulers": [100],
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "dart.openDevTools": "flutter",
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false
+}

@@ -1,0 +1,37 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "NeuLingua — Chrome (Phone Frame)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "deviceId": "chrome",
+      "args": ["--web-renderer", "canvaskit"],
+      "flutterMode": "debug"
+    },
+    {
+      "name": "NeuLingua — Android APK",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "deviceId": "android",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "NeuLingua — iOS Simulator",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "deviceId": "ios",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "NeuLingua — Release APK",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "flutterMode": "release"
+    }
+  ]
+}
