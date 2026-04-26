@@ -2,6 +2,7 @@
 .dart_tool/
 build/
 .packages
-.idea/
 .flutter-plugins
 .flutter-plugins-dependencies
+android/.gradle/
+android/local.properties
